@@ -1,4 +1,4 @@
 # project-demo
 this is my first git repository.
 <br>
-Author - Bindu Banakar
+Author - Bindu Banakar (project-demo)
